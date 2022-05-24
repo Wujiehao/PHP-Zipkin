@@ -1,0 +1,5 @@
+{
+    "require": {
+        "openzipkin/zipkin": "^3.0"
+    }
+}
